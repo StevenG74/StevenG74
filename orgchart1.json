@@ -1,0 +1,17 @@
+ [
+        {
+          name: "CEO",
+          id: "1",
+          parentId: "",
+        },
+        {
+          name: "CTO",
+          id: "2",
+          parentId: "1",
+        },
+        {
+          name: "COO",
+          id: "3",
+          parentId: "1",
+        },
+  ]
