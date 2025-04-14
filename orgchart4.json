@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "parentId": "",
     "name": "John",
     "positionName": "CEO",
@@ -9,12 +9,11 @@
     "team": "",
     "location": "LA Branch",
     "department": "",
-    "description":
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "imageUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "imageUrl": "https://randomuser.me/api/portraits/men/1.jpg"
   },
   {
-    "id": 2,
+    "id": "2",
     "parentId": "1",
     "name": "Smith",
     "positionName": "COO",
@@ -24,11 +23,11 @@
     "location": "LA Branch",
     "department": "",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "imageUrl": "https://randomuser.me/api/portraits/men/20.jpg",
+    "imageUrl": "https://randomuser.me/api/portraits/men/20.jpg"
   },
 
   {
-    "id": 3,
+    "id": "3",
     "parentId": "1",
     "name": "Kate",
     "positionName": "CTO",
@@ -38,6 +37,6 @@
     "location": "LA Branch",
     "department": "",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "imageUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+    "imageUrl": "https://randomuser.me/api/portraits/women/3.jpg"
   }
 ]
