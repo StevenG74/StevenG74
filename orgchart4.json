@@ -50,5 +50,18 @@
     "department": "",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "imageUrl": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "id": "5",
+    "parentId": "3",
+    "name": "Leann",
+    "positionName": "ORG",
+    "phone": "99887766",
+    "email": "employee@email.com",
+    "team": "",
+    "location": "LA Branch",
+    "department": "",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageUrl": "https://randomuser.me/api/portraits/women/5.jpg"
   } 
 ]
